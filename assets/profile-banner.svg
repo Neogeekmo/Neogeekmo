@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
-  <title id="title">Neogeekmo — Building tools for the next adventure</title>
+  <title id="title">Neoldric — Building tools for the next adventure</title>
   <desc id="desc">A dark blue and gold banner with a compass and a route linking map points. World of Warcraft addons, libraries, and personal projects.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c2c"/><stop offset="1" stop-color="#183e42"/></linearGradient>
@@ -14,7 +14,7 @@
     <g fill="#8baea8" opacity=".4"><circle cx="713" cy="55" r="2"/><circle cx="941" cy="138" r="2"/><circle cx="634" cy="31" r="2"/><circle cx="960" cy="30" r="2"/><circle cx="912" cy="240" r="2"/></g>
     <g font-family="'Segoe UI', Arial, sans-serif">
       <text x="46" y="49" font-size="12" font-weight="700" letter-spacing="2.8" fill="#dbc493">ADDON DEVELOPER · TOOL BUILDER</text>
-      <text x="43" y="111" font-size="57" font-weight="750" letter-spacing="-1.5" fill="#f6f4ee">Neogeekmo<tspan font-size="24" fill="#dab674"> / Neoldric</tspan></text>
+      <text x="43" y="111" font-size="57" font-weight="750" letter-spacing="-1.5" fill="#f6f4ee">Neoldric<tspan font-size="24" fill="#dab674"> / formerly Neogeekmo</tspan></text>
       <text x="46" y="160" font-size="27" font-weight="600" fill="#e5d0a7">Building tools for the next adventure.</text>
       <text x="46" y="199" font-size="17" fill="#bdcfd1">World of Warcraft addons, libraries &amp; personal projects</text>
       <rect x="46" y="228" width="30" height="3" rx="1.5" fill="#e0ba76"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="290" viewBox="0 0 600 290" role="img" aria-labelledby="title desc">
-  <title id="title">Neogeekmo — Building tools for the next adventure</title>
-  <desc id="desc">World of Warcraft addons, libraries, and personal projects. Also known as Neoldric.</desc>
+  <title id="title">Neoldric — Building tools for the next adventure</title>
+  <desc id="desc">World of Warcraft addons, libraries, and personal projects. Previously known as Neogeekmo.</desc>
   <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c2c"/><stop offset="1" stop-color="#183e42"/></linearGradient><clipPath id="clip"><rect x="1" y="1" width="598" height="288" rx="22"/></clipPath></defs>
   <g clip-path="url(#clip)">
     <rect width="600" height="290" fill="url(#bg)"/>
@@ -9,8 +9,8 @@
     <circle cx="570" cy="34" r="82" fill="none" stroke="#e0ba76" opacity=".12"/>
     <g font-family="'Segoe UI', Arial, sans-serif">
       <text x="32" y="43" font-size="13" font-weight="700" letter-spacing="2" fill="#dbc493">ADDON DEVELOPER · TOOL BUILDER</text>
-      <text x="30" y="105" font-size="52" font-weight="750" letter-spacing="-1" fill="#f6f4ee">Neogeekmo</text>
-      <text x="34" y="136" font-size="19" fill="#dab674">also known as Neoldric</text>
+      <text x="30" y="105" font-size="52" font-weight="750" letter-spacing="-1" fill="#f6f4ee">Neoldric</text>
+      <text x="34" y="136" font-size="19" fill="#dab674">formerly Neogeekmo</text>
       <text x="32" y="182" font-size="24" font-weight="600" fill="#e5d0a7">Building tools for the next adventure.</text>
       <text x="32" y="216" font-size="17" fill="#bdcfd1">WoW addons, libraries &amp; personal projects</text>
       <rect x="32" y="248" width="30" height="3" rx="1.5" fill="#e0ba76"/>
