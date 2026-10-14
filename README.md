@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/profile-banner-mobile.svg">
-    <img src="assets/profile-banner.svg" alt="Neoldric — Building tools for the next adventure. World of Warcraft addons, libraries and personal projects." width="1000">
+    <source media="(max-width: 600px)" srcset="assets/neoldric-banner-mobile.svg">
+    <img src="assets/neoldric-banner.svg" alt="Neoldric — Building tools for the next adventure. World of Warcraft addons, libraries and personal projects." width="1000">
   </picture>
 </p>
 
@@ -60,9 +60,7 @@
 </table>
 
 <p align="center">
-  <a href="https://www.curseforge.com/wow/addons/azeroth-pilot-reloaded"><img src="assets/download-button.svg" alt="CurseForge — Download APR" width="240"></a>
-  <a href="https://github.com/Azeroth-Pilot-Reloaded/azeroth-pilot-reloaded"><img src="assets/source-button.svg" alt="GitHub — Explore APR" width="240"></a>
-  <a href="https://discord.gg/YgcdybKdWX"><img src="assets/community-button.svg" alt="Discord — Join the APR community" width="240"></a>
+  <a href="https://linktr.ee/neoldric"><img src="assets/linktree-button.svg" alt="Linktree — Everything you're looking for." width="440"></a>
 </p>
 
 <p align="center">
