@@ -1,16 +1,14 @@
-<a name="readme-top"></a>
-
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/profile-banner-mobile.svg">
-    <img src="assets/profile-banner.svg" alt="Neogeekmo — Building tools for the next adventure. World of Warcraft addons, libraries and personal projects." width="1000">
+    <img src="assets/profile-banner.svg" alt="Neoldric — Building tools for the next adventure. World of Warcraft addons, libraries and personal projects." width="1000">
   </picture>
 </p>
 
-<h1 align="center">Hi, I'm Neogeekmo 👋</h1>
+<h1 align="center">Hi, I'm Neoldric 👋</h1>
 
 <p align="center">
-  Also known as <strong>Neoldric</strong> in World of Warcraft.<br>
+  Previously known as <strong>Neogeekmo</strong>.<br>
   I develop <strong>WoW addons</strong>, reusable libraries, and tools that make everyday tasks easier.<br>
   My main focus is <strong>Azeroth Pilot Reloaded</strong>, alongside personal projects and open-source exploration.
 </p>
@@ -126,6 +124,5 @@ Have an idea for an addon, found a bug, or want to help with routes or translati
 </p>
 
 <p align="center">
-  <sub>Built for the community, one project at a time.</sub><br>
-  <a href="#readme-top">Back to top ↑</a>
+  <sub>Built for the community, one project at a time.</sub>
 </p>
