@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/neoldric-banner-mobile.svg">
-    <img src="assets/neoldric-banner.svg" alt="Neoldric — Building tools for the next adventure. World of Warcraft addons, libraries and personal projects." width="1000">
+    <source media="(max-width: 600px)" srcset="assets/neoldric-banner-mobile-v2.svg">
+    <img src="assets/neoldric-banner-v2.svg" alt="Neoldric — Building tools for the next adventure. World of Warcraft addons, libraries and personal projects." width="1000">
   </picture>
 </p>
 
