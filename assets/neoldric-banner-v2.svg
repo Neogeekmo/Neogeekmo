@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
+  <title id="title">Neoldric — Building tools for the next adventure</title>
+  <desc id="desc">A dark blue and gold banner with a compass and a route linking map points. World of Warcraft addons, libraries, and personal projects.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c2c"/><stop offset="1" stop-color="#183e42"/></linearGradient>
+    <linearGradient id="gold" x2="1" y2="1"><stop stop-color="#ffe0a3"/><stop offset="1" stop-color="#b68236"/></linearGradient>
+    <clipPath id="clip"><rect x="1" y="1" width="998" height="278" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="280" fill="url(#bg)"/>
+    <path d="M0 244L115 199L212 230L327 186L441 232L565 189L681 219L782 166L898 209L1000 170V280H0Z" fill="#214c50" opacity=".3"/>
+    <path d="M0 266L149 237L302 262L490 227L682 258L835 230L1000 250V280H0Z" fill="#0b1723" opacity=".55"/>
+    <path d="M671 240L718 194L681 124L735 48M895 38L942 85L904 150L952 231" fill="none" stroke="#7dc1b3" opacity=".13"/>
+    <g fill="#8baea8" opacity=".4"><circle cx="713" cy="55" r="2"/><circle cx="941" cy="138" r="2"/><circle cx="634" cy="31" r="2"/><circle cx="960" cy="30" r="2"/><circle cx="912" cy="240" r="2"/></g>
+    <g font-family="'Segoe UI', Arial, sans-serif">
+      <text x="46" y="49" font-size="12" font-weight="700" letter-spacing="2.8" fill="#dbc493">ADDON DEVELOPER · TOOL BUILDER</text>
+      <text x="43" y="111" font-size="57" font-weight="750" letter-spacing="-1.5" fill="#f6f4ee">Neoldric<tspan dx="12" font-size="24" font-weight="600" letter-spacing="0" fill="#dab674">Neogeekmo</tspan></text>
+      <text x="46" y="160" font-size="27" font-weight="600" fill="#e5d0a7">Building tools for the next adventure.</text>
+      <text x="46" y="199" font-size="17" fill="#bdcfd1">World of Warcraft addons, libraries &amp; personal projects</text>
+      <rect x="46" y="228" width="30" height="3" rx="1.5" fill="#e0ba76"/>
+      <text x="87" y="234" font-size="12" letter-spacing="1.1" fill="#a3c4bf">CODE. CREATE. SHARE.</text>
+    </g>
+    <g transform="translate(815 140)">
+      <circle r="94" fill="#102532" stroke="#5b887e" stroke-opacity=".6"/>
+      <circle r="79" fill="none" stroke="#d2b574" stroke-opacity=".25"/>
+      <path d="M-94 0H94M0-94V94M-56-56L56 56M-56 56L56-56" stroke="#59867e" stroke-opacity=".3"/>
+      <path d="M-65 38L-25 9L12 35L55-24" stroke="#7dd7ba" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="5 7" fill="none"/>
+      <g fill="#102532" stroke="#7dd7ba" stroke-width="2"><circle cx="-65" cy="38" r="5"/><circle cx="12" cy="35" r="5"/><circle cx="55" cy="-24" r="5"/></g>
+      <path d="M0-56L17-15L56 0L17 16L0 57L-16 16L-56 0L-16-15Z" fill="url(#gold)"/>
+      <path d="M0-56V0H-56L-16-15ZM56 0H0V57L17 16Z" fill="#896d3b"/>
+      <circle r="7" fill="#152a37" stroke="#ffe0a3" stroke-width="2"/>
+      <text x="0" y="-102" fill="#d9c696" font-family="'Segoe UI',Arial,sans-serif" text-anchor="middle" font-size="11">N</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="999" height="279" rx="22" fill="none" stroke="#476b6b"/>
+</svg>
